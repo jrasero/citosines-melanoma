@@ -1,2 +1,3 @@
 # citosines-melanoma
-Scripts for the analysis of the citosines and melanoma paper
+
+Scripts for the analyses and plots of the paper "A new clinical tool to predict outcome in early-stage melanoma patients" doi: https://doi.org/10.1101/632455 
